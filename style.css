@@ -11,7 +11,7 @@ body {text-align: center; background-color: #ededee;}
 
 /*Formatando menu de navega��o*/
 #menu {width: 1000px; height: 90px; padding: 0px;}
-#menu .bt{ float: right;  margin-top: 25px; margin-right: 20px;}
+#menu .bt{ float: right;  margin-top: 25px; margin-right: 20px;opacity: 0.9;-moz-opacity: 0.9;Filter: Alpha(Opacity=90)}
 #menu .bt:hover {opacity: 2.0; -moz-opacity: 2.0; Filter: Alpha(Opacity=200)}
 
 /*Formatando texto principal da p�gina*/
