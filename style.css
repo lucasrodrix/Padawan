@@ -1,18 +1,18 @@
 /*alinhamento central de texto e elementos,cor de fundo*/
 body {text-align: center; background-color: #ededee;}
-#all {width: 1000px;	height: auto; margin:0 auto; padding: 0px; text-align:left; font-family: arial;} 
+#all {width: 1000px;  height: auto; margin:0 auto; padding: 0px; text-align:left; font-family: arial;} 
 
 /*alinhamento do menu de redes sociais*/
 #rd_soc {text-align: right; width: 1000px; height: 50px;}
 
 /*Formatando logotipo*/
 #logo {width: 1000px; height: 90px;}
-#logo.img{ float: left;	margin-top: 25px; margin-right: 20px;}
+#logo.img{ float: left;  margin-top: 25px; margin-right: 20px;}
 
 /*Formatando menu de navega��o*/
 #menu {width: 1000px; height: 90px; padding: 0px;}
 #menu .bt{ float: right;	margin-top: 25px; margin-right: 20px;}
-#menu .bt:hover {opacity: 0.9; -moz-opacity: 0.8; Filter: Alpha(Opacity=80)}
+#menu .bt:hover {opacity: 0.9; -moz-opacity: 0.3; Filter: Alpha(Opacity=30)}
 
 /*Formatando texto principal da p�gina*/
 #principal {width: 1000px;}
@@ -30,4 +30,3 @@ body {text-align: center; background-color: #ededee;}
 #rodape ul{float: left; margin-left: 10px; margin-top: 30px;}
 #rodape ul ,li{display: inline;}
 #rodape a{text-decoration: none; color: black; padding-top: 30px; padding-right: 20px;}
-
