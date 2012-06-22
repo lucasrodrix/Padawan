@@ -9,22 +9,22 @@ body {text-align: center; background-color: #ededee;}
 #logo {width: 1000px; height: 90px;}
 #logo.img{ float: left;	margin-top: 25px; margin-right: 20px;}
 
-/*Formatando menu de navegação*/
+/*Formatando menu de navegaï¿½ï¿½o*/
 #menu {width: 1000px; height: 90px; padding: 0px;}
 #menu .bt{ float: right;	margin-top: 25px; margin-right: 20px;}
-#menu .bt:hover {background: #666;}
+#menu .bt:hover {opacity: 0.9; -moz-opacity: 0.8; Filter: Alpha(Opacity=80)}
 
-/*Formatando texto principal da página*/
+/*Formatando texto principal da pï¿½gina*/
 #principal {width: 1000px;}
 #principal .titulo{margin-top: 30px; margin-left: 350px;}
 #principal .conteudo{margin-left: 350px; text-align: justify;}
 
-/*Formatando textos secundários dispostos em 3 colunas*/
+/*Formatando textos secundï¿½rios dispostos em 3 colunas*/
 #sub {width: 1000px; float: left;}
 #sub .titulo{text-align: left;}
 .box {width: 300px; text-align: justify; float: left; margin-left: 30px;} 
 
-/*Formatando rodapé*/
+/*Formatando rodapï¿½*/
 #rodape {width: 1000px;}
 #rodape .img{margin-top: 30px; margin-bottom: 30px; width: 80px;	float: right;}
 #rodape ul{float: left; margin-left: 10px; margin-top: 30px;}
