@@ -1,0 +1,33 @@
+/*alinhamento central de texto e elementos,cor de fundo*/
+body {text-align: center; background-color: #ededee;}
+#all {width: 1000px;	height: auto; margin:0 auto; padding: 0px; text-align:left; font-family: arial;} 
+
+/*alinhamento do menu de redes sociais*/
+#rd_soc {text-align: right; width: 1000px; height: 50px;}
+
+/*Formatando logotipo*/
+#logo {width: 1000px; height: 90px;}
+#logo.img{ float: left;	margin-top: 25px; margin-right: 20px;}
+
+/*Formatando menu de navegação*/
+#menu {width: 1000px; height: 90px; padding: 0px;}
+#menu .bt{ float: right;	margin-top: 25px; margin-right: 20px;}
+#menu .bt:hover {background: #666;}
+
+/*Formatando texto principal da página*/
+#principal {width: 1000px;}
+#principal .titulo{margin-top: 30px; margin-left: 350px;}
+#principal .conteudo{margin-left: 350px; text-align: justify;}
+
+/*Formatando textos secundários dispostos em 3 colunas*/
+#sub {width: 1000px; float: left;}
+#sub .titulo{text-align: left;}
+.box {width: 300px; text-align: justify; float: left; margin-left: 30px;} 
+
+/*Formatando rodapé*/
+#rodape {width: 1000px;}
+#rodape .img{margin-top: 30px; margin-bottom: 30px; width: 80px;	float: right;}
+#rodape ul{float: left; margin-left: 10px; margin-top: 30px;}
+#rodape ul ,li{display: inline;}
+#rodape a{text-decoration: none; color: black; padding-top: 30px; padding-right: 20px;}
+
